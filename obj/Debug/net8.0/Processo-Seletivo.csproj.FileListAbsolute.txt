@@ -1,0 +1,15 @@
+/home/kingabreel/Documentos/Projetos/Processo-Seletivo/Processo-Seletivo/bin/Debug/net8.0/Processo-Seletivo
+/home/kingabreel/Documentos/Projetos/Processo-Seletivo/Processo-Seletivo/bin/Debug/net8.0/Processo-Seletivo.deps.json
+/home/kingabreel/Documentos/Projetos/Processo-Seletivo/Processo-Seletivo/bin/Debug/net8.0/Processo-Seletivo.runtimeconfig.json
+/home/kingabreel/Documentos/Projetos/Processo-Seletivo/Processo-Seletivo/bin/Debug/net8.0/Processo-Seletivo.dll
+/home/kingabreel/Documentos/Projetos/Processo-Seletivo/Processo-Seletivo/bin/Debug/net8.0/Processo-Seletivo.pdb
+/home/kingabreel/Documentos/Projetos/Processo-Seletivo/Processo-Seletivo/obj/Debug/net8.0/Processo-Seletivo.GeneratedMSBuildEditorConfig.editorconfig
+/home/kingabreel/Documentos/Projetos/Processo-Seletivo/Processo-Seletivo/obj/Debug/net8.0/Processo-Seletivo.AssemblyInfoInputs.cache
+/home/kingabreel/Documentos/Projetos/Processo-Seletivo/Processo-Seletivo/obj/Debug/net8.0/Processo-Seletivo.AssemblyInfo.cs
+/home/kingabreel/Documentos/Projetos/Processo-Seletivo/Processo-Seletivo/obj/Debug/net8.0/Processo-Seletivo.csproj.CoreCompileInputs.cache
+/home/kingabreel/Documentos/Projetos/Processo-Seletivo/Processo-Seletivo/obj/Debug/net8.0/Processo-Seletivo.dll
+/home/kingabreel/Documentos/Projetos/Processo-Seletivo/Processo-Seletivo/obj/Debug/net8.0/refint/Processo-Seletivo.dll
+/home/kingabreel/Documentos/Projetos/Processo-Seletivo/Processo-Seletivo/obj/Debug/net8.0/Processo-Seletivo.pdb
+/home/kingabreel/Documentos/Projetos/Processo-Seletivo/Processo-Seletivo/obj/Debug/net8.0/Processo-Seletivo.genruntimeconfig.cache
+/home/kingabreel/Documentos/Projetos/Processo-Seletivo/Processo-Seletivo/obj/Debug/net8.0/ref/Processo-Seletivo.dll
+/home/kingabreel/Documentos/Projetos/Processo-Seletivo/Processo-Seletivo/obj/Debug/net8.0/Processo-Seletivo.sourcelink.json

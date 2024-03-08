@@ -1,10 +1,10 @@
-Aplicação criada em C#, Dotnet Versão 8.
+# Aplicação criada em C#, Dotnet Versão 8.
 
 Para iniciar a aplicação certifique-se de tê-lo instalado
 
 No terminal, navegue até a pasta "Processo-Seletivo" e digite "dotnet run".
 
-
+# Respostas
 1) Observe o trecho de código abaixo:
 
 int INDICE = 13, SOMA = 0, K = 0;
@@ -35,7 +35,12 @@ IMPORTANTE:
 
 Esse número pode ser informado através de qualquer entrada de sua preferência ou pode ser previamente definido no código;
 
-
+![Resultado 1](./Assets/Fib01.png)
+---
+![Resultado 2](./Assets/Fib02.png)
+---
+![Resultado 3](./Assets/Fib03.png)
+---
 
 3) Descubra a lógica e complete o próximo elemento:
 
@@ -72,3 +77,6 @@ a) Essa string pode ser informada através de qualquer entrada de sua preferênc
 
 b) Evite usar funções prontas, como, por exemplo, reverse;
 
+![Resultado 4](./Assets/Rev01.png)
+---
+![Resultado 5](./Assets/Rev02.png)
